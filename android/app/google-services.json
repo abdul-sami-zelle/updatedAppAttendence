@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035510320142",
+    "project_id": "zelleclients",
+    "storage_bucket": "zelleclients.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035510320142:android:7b0d5794cc6aa1481a405f",
+        "android_client_info": {
+          "package_name": "com.zelle.zelleclients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035510320142-o7okn5plf54ukrso57jgtc6u9ug6fd48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8YmGoPaQtScou_3R_9m7zdxPlhG-QVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035510320142-o7okn5plf54ukrso57jgtc6u9ug6fd48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
